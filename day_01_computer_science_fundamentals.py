@@ -1,5 +1,5 @@
 # ============================================================
-# DAY 01: COMPUTER SCIENCE FUNDAMENTALS
+# DAY 00: COMPUTER SCIENCE FUNDAMENTALS
 # ============================================================
 
 print("DAY 01 - COMPUTER SCIENCE FUNDAMENTALS")
