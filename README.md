@@ -45,7 +45,7 @@ Cloud Computing Fundamentals
 
 Distributed Systems Basics
 
-# Day 01: Computer Science Fundamentals
+# Day 00: Computer Science Fundamentals
 
 ## Objective
 
@@ -108,9 +108,3 @@ These fundamentals provide the foundation for learning programming, data structu
 ## Learning Approach
 
 Computer Science will be covered gradually, starting with fundamental concepts before progressing into mathematics, programming, data structures and algorithms, computer architecture, operating systems, networking, databases, software engineering, theory of computation, AI, and advanced computer science.
-
-## Day 01 Completed
-
-**Focus:** Introduction to Computer Science
-
-**Next:** Continue with the next concepts in Computer Science.
