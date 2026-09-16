@@ -1,4 +1,3 @@
-/*
     CPU Simulator Case Study
     =========================
 
